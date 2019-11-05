@@ -1,3 +1,0 @@
-echo 'ab.sh'
-
-t
